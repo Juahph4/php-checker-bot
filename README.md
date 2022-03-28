@@ -13,5 +13,5 @@
 
  <h2>Colaborators🏆<h2>
    <b><a href="https://t.me/Sofiavchanel">SofiaVChanel</a></b><br>
-   <b><a href="https://t.me/LatamBots">LatamBots</a></b>
+   <b><a href="https://t.me/LatamBots">LatamBots</a></b><br>
    <a href="https://paypal.me/Tuscuentascom?country.x=CO&locale.x=es_XC"><img style="width: 100px;" src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-0.png"></a>
